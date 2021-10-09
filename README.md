@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Alan
+- 👋 Hola, que tal soy @Alan
 - 👀 Programador  Front-end Junior
-- 🌱 Habilidades con lenguajes de programación como HTML, CSS, JavaScript.
+- 🌱 Habilidades en programación con HTML, CSS, JavaScript.
+- Twitter: https://twitter.com/Alan_Alvarez92
 
 <!---
 Zequiel92/Zequiel92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
