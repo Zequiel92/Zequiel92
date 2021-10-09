@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Zequiel92
+- 👋 Hi, I’m @Alan
 - 👀 Programador  Front-end Junior
-- 🌱 Estoy aprendiendo lenguajes de programacíon: Javascript, CSS, HTML, Python, PHP, MongoDB, NodeJs
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 Habilidades con lenguajes de programación como HTML, CSS, JavaScript.
 
 <!---
 Zequiel92/Zequiel92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
