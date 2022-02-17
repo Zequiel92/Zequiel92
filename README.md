@@ -1,6 +1,6 @@
 - 👋 Hola, que tal soy @Alan
-- 👀 Programador  Front-end Junior
-- 🌱 Habilidades en programación con HTML, CSS, JavaScript.
+- 👀 Programador Backend Web
+- 🌱 Habilidades en programación con Python, Django y Mysql.
 - Twitter: https://twitter.com/Alan_Alvarez92
 
 <!---
