@@ -1,6 +1,6 @@
 - 👋 Hola, que tal soy @Alan
-- 👀 Desarrollador Backend con Node.js
-- Mis otros conocimientos: Html5, Css y JavaScript (Básico)
+- 👀 Desarrollador Backend con Java
+- Conocimientos en frontend: Html5, Css y JavaScript (Básico)
 - Instagram: https://www.instagram.com/alan.alvarez92/
 
 <!---
