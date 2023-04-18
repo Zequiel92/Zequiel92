@@ -1,5 +1,5 @@
 - 👋 Hola, que tal soy @Alan
-- 👀 Desarrollador Backend con Java ☕
+- 👀 Estudiante de desarrollo web Backend con Java ☕ y Python 🐍
 - Instagram: https://www.instagram.com/alan.alvarez92/
 
 <!---
