@@ -1,8 +1,7 @@
 - 👋 Hola, que tal soy @Alan
-- 👀 Estudiante de desarrollo web Backend con Java ☕ y Python 🐍
-- Instagram: https://www.instagram.com/alan.alvarez92/
 
-<!---
-Zequiel92/Zequiel92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 Soy Estudiante de desarrollo web full stack pero orientado más al backend con Java ☕
+
+- Mis skills básicos: HTML5, CSS, Java, MariaDB, GIT, Python
+
+- Instagram: https://www.instagram.com/alan.alvarez92/
