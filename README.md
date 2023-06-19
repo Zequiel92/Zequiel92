@@ -2,6 +2,8 @@
 
 - 👋 Hola, Soy Alan Alvarez un estudiante de desarrollo web Full Stack pero con un rol más de Backend, me apasiona la tecnología y el desarrollo web. Disfruto explorando nuevas tecnologías y aprendiendo constantemente.
 
+- Mi correo: alanalvarez92k@gmail.com
+
 
 
 #
@@ -23,10 +25,12 @@
 
 #
 
-### Contacto
+## Contacto
 
-- #### Correo: alanalvarez92k@gmail.com
-- #### Perfil de Linkedin: https://www.linkedin.com/in/alan-alvarez-629148223
+  <a href="https://www.linkedin.com/in/alan-alvarez-629148223">
+    <img src="https://cdn.onlinewebfonts.com/svg/img_39059.png" width="40" height="40">
+  </a>
+ 
 
 
 
