@@ -5,9 +5,9 @@
 
 #
 
-## Habilidades
+## Skills
 
-- Aquí están algunas de mis habilidades en las que me destaco:
+- Aquí están algunas de las tecnologías y herramientas en la que me destaco
 
 <img src="https://github.com/Zequiel92/Zequiel92/assets/89278117/38eed06e-ffd7-4d8e-a8a4-f6458c74b1c3" width="60" height="60">
 <img src="https://github.com/Zequiel92/Zequiel92/assets/89278117/e7dfc217-6c6c-4be5-a2cd-af3e50ef2c5c" width="60" height="60"> 
@@ -16,6 +16,15 @@
 <img src="https://github.com/Zequiel92/Zequiel92/assets/89278117/5c21a668-0832-4c4c-ad79-f23ccb6c39e2" width="70" height="70">
 <img src="https://github.com/Zequiel92/Zequiel92/assets/89278117/55cda56f-75b0-4247-9ef1-bd3a3a5fb9c5" width="60" height="60">
 <img src="https://github.com/Zequiel92/Zequiel92/assets/89278117/bfae2012-455c-4c81-a065-14916e35742c" width="60" height="60">
+<img src="https://github.com/Zequiel92/Zequiel92/assets/89278117/f8646a01-0680-4891-a9ea-2c6741f9c53d" width="60" height="60">
+<img src="https://github.com/Zequiel92/Zequiel92/assets/89278117/361a753e-5d7e-4cd9-98ce-447f5b9e6a33" width="60" height="60">
+<img src="https://github.com/Zequiel92/Zequiel92/assets/89278117/fa82c709-3a4e-49cc-ad39-a07451c2555d" width="60" height="60">
+
+#
+
+## Contacto
+
+![image-not-found](https://github.com/Zequiel92/Zequiel92/assets/89278117/4f83815b-25a9-49c7-aa19-7d8e9fd46e8f)(https:/youtube.com)
 
 
 
