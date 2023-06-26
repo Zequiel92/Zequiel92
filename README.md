@@ -23,12 +23,15 @@
 <img src="https://github.com/Zequiel92/Zequiel92/assets/89278117/361a753e-5d7e-4cd9-98ce-447f5b9e6a33" width="60" height="60">
 <img src="https://github.com/Zequiel92/Zequiel92/assets/89278117/fa82c709-3a4e-49cc-ad39-a07451c2555d" width="60" height="60">
 
+
+
+
 #
 
 ## Contacto
 
   <a href="https://www.linkedin.com/in/alan-alvarez-629148223">
-    <img src="https://cdn.onlinewebfonts.com/svg/img_39059.png" width="40" height="40">
+    <img src="https://github.com/Zequiel92/Zequiel92/assets/89278117/7e0f0f9a-1670-4a97-8c9c-a531a9299973" width="40" height="40">
   </a>
  
 
