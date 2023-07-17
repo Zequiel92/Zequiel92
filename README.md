@@ -1,6 +1,6 @@
 # Acerca de mi
 
-- 👋 Hola, Soy Alan Alvarez un estudiante de desarrollo web Full Stack pero con un rol más de Backend, me apasiona la tecnología y el desarrollo web. Disfruto explorando nuevas tecnologías y aprendiendo constantemente.
+- 👋 Hola, Soy Alan Alvarez un estudiante de desarrollo web Full Stack pero con un gusto más de Backend, me apasiona la tecnología y el desarrollo web. Disfruto explorando nuevas tecnologías y aprendiendo constantemente.
 
 - ✉️ Mi correo: alanalvarez92k@gmail.com
 
