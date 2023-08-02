@@ -22,8 +22,9 @@
 <img src="https://github.com/Zequiel92/Zequiel92/assets/89278117/f8646a01-0680-4891-a9ea-2c6741f9c53d" width="60" height="60" title="sublime">
 <img src="https://github.com/Zequiel92/Zequiel92/assets/89278117/361a753e-5d7e-4cd9-98ce-447f5b9e6a33" width="60" height="60" title="VScode">
 <img src="https://github.com/Zequiel92/Zequiel92/assets/89278117/fa82c709-3a4e-49cc-ad39-a07451c2555d" width="60" height="60" title="Eclipse">
+<!--
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" width="50" height="50" title="Netbeans">
-
+-->
 <!--![image](https://github.com/Zequiel92/Zequiel92/assets/89278117/a2b522d0-62ae-4418-988b-4dbca21d1e43) DOCKER-->
 
 
