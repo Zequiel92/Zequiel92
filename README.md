@@ -1,6 +1,6 @@
 # Acerca de mi
 
-- 👋 Hola, Soy Alan Alvarez un estudiante de desarrollo web Full Stack pero con un rol más de Backend, me apasiona la tecnología y el desarrollo web. Disfruto explorando nuevas tecnologías y aprendiendo constantemente.
+- 👋 ¡Hola! Soy Alan Alvarez, un apasionado estudiante trainee de desarrollo web con enfoque en Java Backend y con conocimientos en QA Testing. Mi entusiasmo por la tecnología y la programación me ha impulsado a especializarme en el desarrollo de aplicaciones backend utilizando Java. Estoy emocionado por seguir aprendiendo y creciendo en este apasionante viaje como profesional en el mundo de IT.
 
 - ✉️ Mi correo: alanalvarez92k@gmail.com
 
