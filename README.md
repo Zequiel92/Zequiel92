@@ -1,7 +1,6 @@
 # Acerca de mi
 
-- 👋 ¡Hola! Soy Alan Alvarez, un apasionado estudiante trainee de desarrollo web con enfoque en Backend. Mi entusiasmo por la tecnología y la programación me ha impulsado a especializarme en el desarrollo de aplicaciones backend utilizando Java. Estoy emocionado por seguir aprendiendo y creciendo en este apasionante viaje como profesional en el mundo de IT.
-
+- 👋 ¡Hola! Soy Alan un apasionado estudiante de desarrollo web con enfoque en Backend. Mi entusiasmo por la tecnología y la programación me ha impulsado a especializarme en el desarrollo de aplicaciones backend utilizando Java.
 - English level = A1
 
 - ✉️ Mi correo: alanalvarez92k@gmail.com
