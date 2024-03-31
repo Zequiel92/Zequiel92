@@ -12,7 +12,7 @@
 
 ## Skills
 
-- Tecnologías que más uso.
+
 
 <img src="https://github.com/Zequiel92/Zequiel92/assets/89278117/38eed06e-ffd7-4d8e-a8a4-f6458c74b1c3" width="60" height="60" title="html">
 <img src="https://github.com/Zequiel92/Zequiel92/assets/89278117/e7dfc217-6c6c-4be5-a2cd-af3e50ef2c5c" width="60" height="60" title="css"> 
