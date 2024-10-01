@@ -1,7 +1,8 @@
 # Acerca de mi
 
-- 👋 ¡Hola! Soy Alan un apasionado estudiante de desarrollo web con enfoque en Backend. Mi entusiasmo por la tecnología y la programación me ha impulsado a especializarme en el desarrollo de aplicaciones backend utilizando Java.
+- 👋 ¡Hola! Soy Alan un apasionado estudiante de desarrollo web con enfoque en Backend. Mi entusiasmo por la programación me ha impulsado a seguir aprendiendo y resolver problemas.
 - English level = A1
+- Estudiando Tecnicatura de Software
 
 - ✉️ Mi correo: alanalvarez92k@gmail.com
 
