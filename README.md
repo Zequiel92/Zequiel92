@@ -36,19 +36,18 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" title="git">
 </span>
 
-<!--
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" width="50" height="50" title="Netbeans">
--->
-<!--![image](https://github.com/Zequiel92/Zequiel92/assets/89278117/a2b522d0-62ae-4418-988b-4dbca21d1e43) DOCKER-->
-
-
-#
+<h4>Web</h4>
+<span>
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
+</span>
 
 ## Contacto
 
   <a href="https://www.linkedin.com/in/alan-alvarez-629148223" TARGET="blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+
+  
  
 
 
