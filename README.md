@@ -10,20 +10,26 @@
 
 #
 
-## Skills
+# Conocimientos
 
+<h4>Tecnologías</h4>
+<span>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" title="html">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" title="git">
+</span>
 
+<h4>Bases de Datos</h4>
+<span>
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+</span>
 
-<img src="https://github.com/Zequiel92/Zequiel92/assets/89278117/38eed06e-ffd7-4d8e-a8a4-f6458c74b1c3" width="60" height="60" title="html">
-<img src="https://github.com/Zequiel92/Zequiel92/assets/89278117/e7dfc217-6c6c-4be5-a2cd-af3e50ef2c5c" width="60" height="60" title="css"> 
-<img src="https://github.com/Zequiel92/Zequiel92/assets/89278117/f06f125d-4c83-4a18-be8b-875db3668547" width="75" height="75" title="java">
-<img src="https://github.com/Zequiel92/Zequiel92/assets/89278117/a17599b5-5f49-40b0-9276-9fca903b42f6" width="60" height="60" title="python">
-<img src="https://github.com/Zequiel92/Zequiel92/assets/89278117/5c21a668-0832-4c4c-ad79-f23ccb6c39e2" width="70" height="70" title="mysql">
-<!--<img src="https://github.com/Zequiel92/Zequiel92/assets/89278117/55cda56f-75b0-4247-9ef1-bd3a3a5fb9c5" width="60" height="60" title="postgreSql"> -->
-<img src="https://github.com/Zequiel92/Zequiel92/assets/89278117/bfae2012-455c-4c81-a065-14916e35742c" width="60" height="60" title="git">
-<!--<img src="https://github.com/Zequiel92/Zequiel92/assets/89278117/f8646a01-0680-4891-a9ea-2c6741f9c53d" width="60" height="60" title="sublime">-->
-<!--<img src="https://github.com/Zequiel92/Zequiel92/assets/89278117/361a753e-5d7e-4cd9-98ce-447f5b9e6a33" width="60" height="60" title="VScode">-->
-<!--<img src="https://github.com/Zequiel92/Zequiel92/assets/89278117/fa82c709-3a4e-49cc-ad39-a07451c2555d" width="60" height="60" title="Eclipse">-->
+<h4>Frameworks</h4>
+<span>
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+</span>
+
 <!--
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" width="50" height="50" title="Netbeans">
 -->
