@@ -26,7 +26,7 @@
 <h4>Frameworks</h4>
 <span>
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-</span>->
+</span>-->
 
 <h4>Otros</h4>
 <span>
