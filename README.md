@@ -22,10 +22,11 @@
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
 </span>
 
+<!--
 <h4>Frameworks</h4>
 <span>
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-</span>
+</span>->
 
 <h4>Otros</h4>
 <span>
@@ -33,10 +34,6 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" title="git">
 </span>
 
-<h4>Web</h4>
-<span>
-  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
-</span>
 
 ## Contacto
 
