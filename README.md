@@ -1,5 +1,5 @@
 
-### Hola,[Soy Alan!]<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hola,[ Soy Alan! ]<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
@@ -28,11 +28,15 @@ Desarrollador Backend en formación. Con enfoque en seguridad, desarrollo y rede
  
 
  
-## Tareas actuales
+## Tareas Actuales
  * Actualmente me encuentro estudiando desarrollo backend con el ecosistema de Java :coffee:
  * Aprendiendo Redes, Bases de Datos, Servidores de Linux y Bash 🐧
  * También estoy ejercitando mi pensamiento lógico en plataformas como LeetCode y HackerRank :muscle:
- 
+<br>
+
+<!--
+## Otras Cosas
+<a href="https://leetcode.com/kk10-/" target="_blank"><img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/2560px-LeetCode_Logo_black_with_text.svg.png" alt="LeetCode" /></a><a href="https://www.hackerrank.com/profile/kartik_kapgate" target="_blank"><img width="100px" src="https://user-images.githubusercontent.com/1194257/65596422-1cef2080-df97-11e9-9abb-a225204d1805.png" alt="HackerRank" /></a>-->
 <!--## Other Stuff-->
   <!-- :octocat: [My Resume](https://drive.google.com/file/d/1r12H21TzxERUdxrNbbqBRdv1hQOcU2ko/view?usp=sharing)-->
 
