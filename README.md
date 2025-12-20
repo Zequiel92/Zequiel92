@@ -20,7 +20,7 @@ Desarrollador Backend en formación. Con enfoque en seguridad, desarrollo y rede
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Zequiel92&layout=compact">
 
 ## Tecnologías y Herramientas
-<img src="https://skillicons.dev/icons?i=cpp,java,mysql,wasm)](https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=cpp,java,mysql,html,css,wasm)](https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=eclipse,sublime,git,md,wasm)](https://skillicons.dev">
 
 <h4>Aprendiendo</h4>
