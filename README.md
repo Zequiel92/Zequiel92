@@ -7,7 +7,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-alanalvarez92k@gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alanalvarez92k@gmail.com)](mailto:alanalvarez92k@gmail.com)
 
 
-Bienvenido/a a mi perfil de github en donde comparto mis proyectos, ejercicios de LeetCode y HackerRank
+Desarrollador Backend en formación.
+
+
 
 ## :Areas que me interesan
 * Backend
