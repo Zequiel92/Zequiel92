@@ -5,6 +5,7 @@
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 [![Gmail Badge](https://img.shields.io/badge/-alanalvarez92k@gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alanalvarez92k@gmail.com)](mailto:alanalvarez92k@gmail.com)
+<a href="https://www.linkedin.com/in/alan-alvarez-629148223" TARGET="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
 Desarrollador Backend en formación. Con enfoque en seguridad, desarrollo y redes
@@ -20,7 +21,7 @@ Desarrollador Backend en formación. Con enfoque en seguridad, desarrollo y rede
 
 ## Tecnologías y Herramientas
 <img src="https://skillicons.dev/icons?i=cpp,java,mysql,wasm)](https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=eclipse,sublime,git,sqlite,md,wasm)](https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=eclipse,sublime,git,md,wasm)](https://skillicons.dev">
 
 <h4>Aprendiendo</h4>
 <img src="https://skillicons.dev/icons?i=linux,bash,wasm)](https://skillicons.dev">
