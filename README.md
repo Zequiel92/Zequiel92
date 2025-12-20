@@ -7,19 +7,19 @@
 [![Gmail Badge](https://img.shields.io/badge/-alanalvarez92k@gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alanalvarez92k@gmail.com)](mailto:alanalvarez92k@gmail.com)
 
 
-Desarrollador Backend en formación.
+Desarrollador Backend en formación. Con enfoque en seguridad, desarrollo y redes
 
 
 
-## :Areas que me interesan
+## Áreas que me interesan:
 * Backend
+* Seguridad Web
 * DevOps
-* Seguridad
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Zequiel92&layout=compact">
 
 ## Tecnologías y Herramientas
-<img src="https://skillicons.dev/icons?i=cpp,java,py,wasm)](https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=cpp,java,wasm)](https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=eclipse,sublime,git,sqlite,md,wasm)](https://skillicons.dev">
 
 <h4>Aprendiendo</h4>
