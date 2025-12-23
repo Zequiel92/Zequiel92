@@ -14,7 +14,7 @@ Desarrollador Backend en formación. Con enfoque en seguridad, desarrollo y rede
 
 ## Áreas que me interesan:
 * Backend
-* Seguridad Web
+* Seguridad Web Blue Team
 * DevOps
 
 <!--<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Zequiel92&layout=compact">-->
