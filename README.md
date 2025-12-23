@@ -17,7 +17,7 @@ Desarrollador Backend en formación. Con enfoque en seguridad, desarrollo y rede
 * Seguridad Web
 * DevOps
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Zequiel92&layout=compact">
+<!--<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Zequiel92&layout=compact">-->
 
 ## Tecnologías y Herramientas
 <img src="https://skillicons.dev/icons?i=cpp,java,mysql,html,css,wasm)](https://skillicons.dev">
