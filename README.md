@@ -24,7 +24,7 @@ Estoy formándome como desarrollador backend, prácticas en Linux con VM, redes 
 <img src="https://skillicons.dev/icons?i=eclipse,sublime,git,md,wasm)](https://skillicons.dev">
 
 <h4>Aprendiendo</h4>
-<img src="https://skillicons.dev/icons?i=linux,bash,wasm)](https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=linux,wasm)](https://skillicons.dev">
  
 
  
