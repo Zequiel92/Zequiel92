@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/alan-alvarez-629148223" TARGET="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
-Desarrollador Backend en formación. Con enfoque en seguridad, desarrollo y redes
+Estoy formándome como desarrollador backend, prácticas en Linux con VM, redes y fundamentos de programación.
 
 
 
