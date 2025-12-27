@@ -17,6 +17,9 @@ Estoy formándome como desarrollador backend, prácticas en Linux con VM, redes 
 * Seguridad Web
 * DevOps
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zequiel92
+"></img>
+
 <!--<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Zequiel92&layout=compact">-->
 
 ## Tecnologías y Herramientas
