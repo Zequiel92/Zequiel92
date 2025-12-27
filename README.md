@@ -17,8 +17,7 @@ Estoy formándome como desarrollador backend, prácticas en Linux con VM, redes 
 * Seguridad Web
 * DevOps
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zequiel92
-"></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zequiel92&stats_format=bytes">
 
 <!--<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Zequiel92&layout=compact">-->
 
@@ -42,6 +41,4 @@ Estoy formándome como desarrollador backend, prácticas en Linux con VM, redes 
 <a href="https://leetcode.com/kk10-/" target="_blank"><img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/2560px-LeetCode_Logo_black_with_text.svg.png" alt="LeetCode" /></a><a href="https://www.hackerrank.com/profile/kartik_kapgate" target="_blank"><img width="100px" src="https://user-images.githubusercontent.com/1194257/65596422-1cef2080-df97-11e9-9abb-a225204d1805.png" alt="HackerRank" /></a>-->
 <!--## Other Stuff-->
   <!-- :octocat: [My Resume](https://drive.google.com/file/d/1r12H21TzxERUdxrNbbqBRdv1hQOcU2ko/view?usp=sharing)-->
-
-![Haany's github stats](https://github-readme-stats.vercel.app/api?username=Zequiel92&show_icons=true&hide=[%22issues%22])
  
