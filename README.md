@@ -21,7 +21,7 @@ Estoy formándome como desarrollador backend, prácticas en Linux y Redes.
 <!--<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Zequiel92&layout=compact">-->
 
 ## Tecnologías y Herramientas
-<img src="https://skillicons.dev/icons?i=lua,java,html,css,wasm)](https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=lua,java,py,html,css,wasm)](https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=git,md,wasm)](https://skillicons.dev">
 
 <h4>Aprendiendo</h4>
