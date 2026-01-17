@@ -8,21 +8,21 @@
 <a href="https://www.linkedin.com/in/alan-alvarez-629148223" TARGET="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
-Estoy formándome como desarrollador backend, prácticas en Linux con VM, redes y fundamentos de programación.
+Estoy formándome como desarrollador backend, prácticas en Linux y Redes.
 
 
 
 ## Áreas que me interesan:
 * Backend
 * Seguridad Web
-* DevOps
+* DevOps / Sysadmin
 
 
 <!--<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Zequiel92&layout=compact">-->
 
 ## Tecnologías y Herramientas
-<img src="https://skillicons.dev/icons?i=cpp,java,mysql,html,css,wasm)](https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=eclipse,sublime,git,md,wasm)](https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=lua,java,html,css,wasm)](https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=git,md,wasm)](https://skillicons.dev">
 
 <h4>Aprendiendo</h4>
 <img src="https://skillicons.dev/icons?i=linux,wasm)](https://skillicons.dev">
@@ -32,7 +32,7 @@ Estoy formándome como desarrollador backend, prácticas en Linux con VM, redes 
 ## Tareas Actuales
  * Actualmente me encuentro estudiando desarrollo backend con el ecosistema de Java :coffee:
  * Aprendiendo Redes, Bases de Datos, Servidores de Linux y Bash 🐧
- * También estoy ejercitando mi pensamiento lógico en plataformas como LeetCode y HackerRank :muscle:
+ * También estoy ejercitando mi pensamiento lógico en la plataforma HackerRank :muscle:
 <br>
 
 <!--
