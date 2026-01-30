@@ -8,31 +8,31 @@
 <a href="https://www.linkedin.com/in/alan-alvarez-629148223" TARGET="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
-Estoy formándome como desarrollador backend, prácticas en Linux y Redes.
+Actualmente me encuentro en una etapa de formación enfocada en el **Desarrollo Backend**, construyendo los cimientos para crear sistemas robustos y seguros.
 
 
 
-## Áreas que me interesan:
-* Backend
-* Seguridad Web
-* DevOps / Sysadmin
+### 🛠️ En qué estoy trabajando:
+- **Java:** Profundizando en el lenguaje y el ecosistema Spring.
+- **SysAdmin:** Aprendiendo gestión de servidores Linux y despliegues.
+- **Ciberseguridad:** Estudiando buenas prácticas de seguridad web y OWASP.
 
 
 <!--<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Zequiel92&layout=compact">-->
 
 ## Tecnologías y Herramientas
-<img src="https://skillicons.dev/icons?i=lua,java,py,html,css,wasm)](https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=git,md,wasm)](https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=java,py,html,css,wasm)](https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=linux,git,md,wasm)](https://skillicons.dev">
 
 <h4>Aprendiendo</h4>
 <img src="https://skillicons.dev/icons?i=linux,wasm)](https://skillicons.dev">
  
 
  
-## Tareas Actuales
- * Actualmente me encuentro estudiando desarrollo backend con el ecosistema de Java :coffee:
- * Aprendiendo Redes, Bases de Datos, Servidores de Linux y Bash 🐧
- * También estoy ejercitando mi pensamiento lógico en la plataforma HackerRank :muscle:
+### 📈 Objetivos para 2026 :muscle: :
+* Finalizar mi primer API REST con Java.
+* Automatizar tareas simples mediante scripts de Bash.
+* Documentar mis notas de estudio en repositorios públicos.
 <br>
 
 <!--
