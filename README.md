@@ -13,7 +13,7 @@ Actualmente me encuentro en una etapa de formación enfocada en el **Desarrollo 
 
 
 ### 🛠️ En qué estoy trabajando:
-- **Java:** Profundizando en el lenguaje y el ecosistema Spring.
+- **Java:** Profundizando en el lenguaje y el ecosistema SpringBoot.
 - **SysAdmin:** Aprendiendo gestión de servidores Linux y despliegues.
 - **Ciberseguridad:** Estudiando buenas prácticas de seguridad web y OWASP.
 
@@ -21,7 +21,7 @@ Actualmente me encuentro en una etapa de formación enfocada en el **Desarrollo 
 <!--<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Zequiel92&layout=compact">-->
 
 ## Tecnologías y Herramientas
-<img src="https://skillicons.dev/icons?i=java,py,html,css,wasm)](https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=c,java,lua,html,css,wasm)](https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=linux,git,md,wasm)](https://skillicons.dev">
 
 <h4>Aprendiendo</h4>
@@ -33,6 +33,10 @@ Actualmente me encuentro en una etapa de formación enfocada en el **Desarrollo 
 * Finalizar mi primer API REST con Java.
 * Automatizar tareas simples mediante scripts de Bash.
 * Documentar mis notas de estudio en repositorios públicos.
+
+### Aficiones/Hobbys
+* Desarrollo de Videojuegos con Lua
+* Tocar la guitarra
 <br>
 
 <!--
