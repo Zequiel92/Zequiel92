@@ -21,11 +21,11 @@ Actualmente me encuentro en una etapa de formación enfocada en el **Desarrollo 
 <!--<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Zequiel92&layout=compact">-->
 
 ## Tecnologías y Herramientas
-<img src="https://skillicons.dev/icons?i=c,java,lua,html,css,wasm)](https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=java,py,html,css,wasm)](https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=linux,git,md,wasm)](https://skillicons.dev">
 
-<h4>Aprendiendo</h4>
-<img src="https://skillicons.dev/icons?i=linux,wasm)](https://skillicons.dev">
+<!--<h4>Aprendiendo</h4>-->
+<!--<img src="https://skillicons.dev/icons?i=linux,wasm)](https://skillicons.dev">-->
  
 
  
@@ -35,7 +35,7 @@ Actualmente me encuentro en una etapa de formación enfocada en el **Desarrollo 
 * Documentar mis notas de estudio en repositorios públicos.
 
 ### Aficiones/Hobbys
-* Desarrollo de Videojuegos con Lua
+* Desarrollo de Videojuegos
 * Tocar la guitarra
 <br>
 
