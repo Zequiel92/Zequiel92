@@ -15,7 +15,7 @@ Actualmente me encuentro en una etapa de formación enfocada en el **Desarrollo 
 ### 🛠️ En qué estoy trabajando:
 - **Java:** Profundizando en el lenguaje y el ecosistema SpringBoot.
 - **SysAdmin:** Aprendiendo gestión de servidores Linux y despliegues.
-- **Ciberseguridad:** Estudiando buenas prácticas de seguridad web y OWASP.
+- **Seguridad:** Estudiando buenas prácticas de seguridad web y OWASP.
 
 
 <!--<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Zequiel92&layout=compact">-->
