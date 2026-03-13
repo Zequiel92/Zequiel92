@@ -14,7 +14,7 @@ Actualmente me encuentro en una etapa de formación enfocada en el **Desarrollo 
 
 ### 🛠️ En qué estoy trabajando:
 - **Java:** Profundizando en el lenguaje y el ecosistema SpringBoot.
-- **SysAdmin:** Aprendiendo gestión de servidores Linux y despliegues.
+- **Linux:** Aprendiendo gestión de servidores Linux y despliegues.
 - **Seguridad:** Estudiando buenas prácticas de seguridad web y OWASP.
 
 
