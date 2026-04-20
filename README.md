@@ -1,5 +1,5 @@
 
-### Hola,[ Soy Alan! ]<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hola,[ Soy Alan Alvarez! ]<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
@@ -8,35 +8,33 @@
 <a href="https://www.linkedin.com/in/alan-alvarez-629148223" TARGET="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
-Actualmente me encuentro en una etapa de formación enfocada en el **Desarrollo Backend**, construyendo los cimientos para crear sistemas robustos y seguros.
+Actualmente enfocado en **Backend** con Python y **Seguridad Web**, desarrollando APIs y analizando vulnerabilidades para construir aplicaciones más seguras.
 
 
 
 ### 🛠️ En qué estoy trabajando:
-- **Java:** Profundizando en el lenguaje y el ecosistema SpringBoot.
-- **Linux:** Aprendiendo gestión de servidores Linux y despliegues.
-- **Seguridad:** Estudiando buenas prácticas de seguridad web y OWASP.
+- **Python (FastAPI)**: desarrollo de APIs REST seguras
+- **Linux:** manejo de entornos y despliegue básico
+- **Pentesting Web**: análisis de vulnerabilidades (XSS, SQLi, IDOR)
+- **HTTP & Web fundamentals**: comprensión de requests, sesiones y autenticación
 
 
 <!--<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Zequiel92&layout=compact">-->
 
 ## Tecnologías y Herramientas
-<img src="https://skillicons.dev/icons?i=java,py,html,css,wasm)](https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=linux,git,md,wasm)](https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=py,fastapi,flask,postgresql,html,css,wasm)](https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=linux,git,docker,)](https://skillicons.dev">
 
 <!--<h4>Aprendiendo</h4>-->
 <!--<img src="https://skillicons.dev/icons?i=linux,wasm)](https://skillicons.dev">-->
  
 
  
-### 📈 Objetivos para 2026 :muscle: :
-* Finalizar mi primer API REST con Java.
-* Automatizar tareas simples mediante scripts de Bash.
-* Documentar mis notas de estudio en repositorios públicos.
+### 📈 Intereses en Seguridad :muscle: :
+* Pentesting Web
+* Seguridad en APIs
+* Buenas prácticas de autenticación y validación
 
-### Aficiones/Hobbys
-* Desarrollo de Videojuegos
-* Tocar la guitarra
 <br>
 
 <!--
