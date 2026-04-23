@@ -2,7 +2,7 @@
 ### Hola,[ Soy Alan Alvarez! ]<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+<!--<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>-->
 
 [![Gmail Badge](https://img.shields.io/badge/-alanalvarez92k@gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alanalvarez92k@gmail.com)](mailto:alanalvarez92k@gmail.com)
 <a href="https://www.linkedin.com/in/alan-alvarez-629148223" TARGET="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
