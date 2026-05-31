@@ -22,8 +22,8 @@ Actualmente enfocado en **Backend** con Python y **Seguridad Web**, desarrolland
 <!--<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Zequiel92&layout=compact">-->
 
 ## Tecnologías y Herramientas
-<img src="https://skillicons.dev/icons?i=py,fastapi,postgresql,html,css,wasm)](https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=linux,git,docker,)](https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=py,fastapi,html,css,wasm)](https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=linux,git,docker,postgresql,)](https://skillicons.dev">
 
 <!--<h4>Aprendiendo</h4>-->
 <!--<img src="https://skillicons.dev/icons?i=linux,wasm)](https://skillicons.dev">-->
