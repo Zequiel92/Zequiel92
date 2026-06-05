@@ -32,8 +32,7 @@ Actualmente enfocado en **Backend** con Python y **Seguridad Web**, desarrolland
  
 ### 📈 Intereses en Seguridad :muscle: :
 * Pentesting Web
-* Seguridad en APIs
-* Buenas prácticas de autenticación y validación
+* Seguridad a APIs
 
 <br>
 
