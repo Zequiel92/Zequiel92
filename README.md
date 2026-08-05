@@ -8,13 +8,12 @@
 <a href="https://www.linkedin.com/in/alan-alvarez-629148223" TARGET="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
-Actualmente enfocado en **Backend** con Python y **Seguridad Web**, desarrollando APIs y analizando vulnerabilidades para construir aplicaciones más seguras.
+Actualmente enfocado en **Backend** y **Seguridad Web**, desarrollando APIs y analizando vulnerabilidades para construir aplicaciones más seguras.
 
 
 
 ### 🛠️ En qué estoy trabajando:
-- **Python (FastAPI)**: desarrollo de APIs REST seguras
-- **Linux:** manejo de entornos y despliegue básico
+- **PHP**: desarrollo de APIs REST seguras
 - **Pentesting Web**: análisis de vulnerabilidades (XSS, SQLi, IDOR)
 - **HTTP & Web fundamentals**: comprensión de requests, sesiones y autenticación
 
@@ -22,7 +21,7 @@ Actualmente enfocado en **Backend** con Python y **Seguridad Web**, desarrolland
 <!--<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Zequiel92&layout=compact">-->
 
 ## Tecnologías y Herramientas
-<img src="https://skillicons.dev/icons?i=c,py,html,css,)](https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=php,py,html,css,js,)](https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=linux,git,docker,postgresql,)](https://skillicons.dev">
 
 <!--<h4>Aprendiendo</h4>-->
