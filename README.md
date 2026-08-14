@@ -24,7 +24,7 @@ Actualmente enfocado en **Backend** y **Seguridad Web**, desarrollando APIs y an
 <img src="https://skillicons.dev/icons?i=py,php,postgresql,)](https://skillicons.dev">
 
 ## Herramientas
-<img src="https://skillicons.dev/icons?i=linux,git,docker,debian,bash,](https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=linux,git,docker,bash,](https://skillicons.dev">
 
 <!--<h4>Aprendiendo</h4>-->
 <!--<img src="https://skillicons.dev/icons?i=linux,wasm)](https://skillicons.dev">-->
