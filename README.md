@@ -20,9 +20,11 @@ Actualmente enfocado en **Backend** y **Seguridad Web**, desarrollando APIs y an
 
 <!--<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Zequiel92&layout=compact">-->
 
-## Tecnologías y Herramientas
-<img src="https://skillicons.dev/icons?i=php,py,)](https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=linux,git,docker,postgresql,)](https://skillicons.dev">
+## Backend
+<img src="https://skillicons.dev/icons?i=py,php,postgresql,)](https://skillicons.dev">
+
+## Herramientas
+<img src="https://skillicons.dev/icons?i=linux,git,docker,debian,bash,](https://skillicons.dev">
 
 <!--<h4>Aprendiendo</h4>-->
 <!--<img src="https://skillicons.dev/icons?i=linux,wasm)](https://skillicons.dev">-->
