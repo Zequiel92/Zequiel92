@@ -13,7 +13,7 @@ Actualmente enfocado en **Backend** y **Seguridad Web**, desarrollando APIs y an
 
 
 ### 🛠️ En qué estoy trabajando:
-- **PHP**: desarrollo de APIs REST seguras
+- **Node**: desarrollando aplicaciones backend
 - **Pentesting Web**: análisis de vulnerabilidades (XSS, SQLi, IDOR)
 - **HTTP & Web fundamentals**: comprensión de requests, sesiones y autenticación
 
@@ -21,7 +21,7 @@ Actualmente enfocado en **Backend** y **Seguridad Web**, desarrollando APIs y an
 <!--<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Zequiel92&layout=compact">-->
 
 ## Backend
-<img src="https://skillicons.dev/icons?i=py,php,postgresql,)](https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=py,nodejs,postgresql,)](https://skillicons.dev">
 
 ## Herramientas
 <img src="https://skillicons.dev/icons?i=linux,git,docker,bash,](https://skillicons.dev">
